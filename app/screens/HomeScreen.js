@@ -59,6 +59,6 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     textoBoton: {
-        color: '#fff', // Cambia esto al color que prefieras para el texto
+        color: '#8b0000', // Cambia esto al color que prefieras para el texto
     },
 });
