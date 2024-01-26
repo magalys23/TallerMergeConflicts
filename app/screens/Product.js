@@ -21,15 +21,15 @@ export const Product = ({navigation}) =>{
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "yellow",
+    backgroundColor: "#556b2f",
     alignItems: "center",
     justifyContent: "center",
   },
   productText1: {
-    color: "blue",
+    color: "#6495ed",
   },
   productText2: {
-    color: "red",
+    color: "#008080",
   },
   productText3: {
     color: "green",

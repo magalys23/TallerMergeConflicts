@@ -36,7 +36,7 @@ export const Home = ({ navigation }) => {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: 'green',
+        backgroundColor: '#04B431',
         alignItems: 'center',
         justifyContent: 'center',
     },
@@ -48,13 +48,13 @@ const styles = StyleSheet.create({
 
     },
     boton1: {
-        backgroundColor: '#C10FED',
+        backgroundColor: '#e0ffff',
         marginRight: 60,
         padding: 10,
         alignItems: 'center',
     },
     boton2: {
-        backgroundColor: '#C10FED', // Cambia esto al color que prefieras
+        backgroundColor: '#778899', // Cambia esto al color que prefieras
         padding: 10,
         alignItems: 'center',
     },
